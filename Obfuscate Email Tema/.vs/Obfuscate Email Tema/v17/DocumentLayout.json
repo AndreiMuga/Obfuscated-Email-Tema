@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andrei\\Desktop\\ScoalaInformalaDeIT\\Repository\\Obfuscate Email Tema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B457E5F-F2A5-4915-A31A-AB3EFF178C73}|Obfuscate Email Tema\\Obfuscate Email Tema.csproj|c:\\users\\andrei\\desktop\\scoalainformaladeit\\repository\\obfuscate email tema\\obfuscate email tema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B457E5F-F2A5-4915-A31A-AB3EFF178C73}|Obfuscate Email Tema\\Obfuscate Email Tema.csproj|solutionrelative:obfuscate email tema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\Desktop\\ScoalaInformalaDeIT\\Repository\\Obfuscate Email Tema\\Obfuscate Email Tema\\Program.cs",
+              "RelativeDocumentMoniker": "Obfuscate Email Tema\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrei\\Desktop\\ScoalaInformalaDeIT\\Repository\\Obfuscate Email Tema\\Obfuscate Email Tema\\Program.cs",
+              "RelativeToolTip": "Obfuscate Email Tema\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:01:31.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

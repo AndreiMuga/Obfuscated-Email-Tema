@@ -1,0 +1,14 @@
+C:\Users\Andrei\Desktop\ScoalaInformalaDeIT\Repository\Obfuscate Email Tema\Obfuscate Email Tema\bin\Debug\net8.0\Obfuscate Email Tema.exe
+C:\Users\Andrei\Desktop\ScoalaInformalaDeIT\Repository\Obfuscate Email Tema\Obfuscate Email Tema\bin\Debug\net8.0\Obfuscate Email Tema.deps.json
+C:\Users\Andrei\Desktop\ScoalaInformalaDeIT\Repository\Obfuscate Email Tema\Obfuscate Email Tema\bin\Debug\net8.0\Obfuscate Email Tema.runtimeconfig.json
+C:\Users\Andrei\Desktop\ScoalaInformalaDeIT\Repository\Obfuscate Email Tema\Obfuscate Email Tema\bin\Debug\net8.0\Obfuscate Email Tema.dll
+C:\Users\Andrei\Desktop\ScoalaInformalaDeIT\Repository\Obfuscate Email Tema\Obfuscate Email Tema\bin\Debug\net8.0\Obfuscate Email Tema.pdb
+C:\Users\Andrei\Desktop\ScoalaInformalaDeIT\Repository\Obfuscate Email Tema\Obfuscate Email Tema\obj\Debug\net8.0\Obfuscate Email Tema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrei\Desktop\ScoalaInformalaDeIT\Repository\Obfuscate Email Tema\Obfuscate Email Tema\obj\Debug\net8.0\Obfuscate Email Tema.AssemblyInfoInputs.cache
+C:\Users\Andrei\Desktop\ScoalaInformalaDeIT\Repository\Obfuscate Email Tema\Obfuscate Email Tema\obj\Debug\net8.0\Obfuscate Email Tema.AssemblyInfo.cs
+C:\Users\Andrei\Desktop\ScoalaInformalaDeIT\Repository\Obfuscate Email Tema\Obfuscate Email Tema\obj\Debug\net8.0\Obfuscate Email Tema.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\ScoalaInformalaDeIT\Repository\Obfuscate Email Tema\Obfuscate Email Tema\obj\Debug\net8.0\Obfuscate Email Tema.dll
+C:\Users\Andrei\Desktop\ScoalaInformalaDeIT\Repository\Obfuscate Email Tema\Obfuscate Email Tema\obj\Debug\net8.0\refint\Obfuscate Email Tema.dll
+C:\Users\Andrei\Desktop\ScoalaInformalaDeIT\Repository\Obfuscate Email Tema\Obfuscate Email Tema\obj\Debug\net8.0\Obfuscate Email Tema.pdb
+C:\Users\Andrei\Desktop\ScoalaInformalaDeIT\Repository\Obfuscate Email Tema\Obfuscate Email Tema\obj\Debug\net8.0\Obfuscate Email Tema.genruntimeconfig.cache
+C:\Users\Andrei\Desktop\ScoalaInformalaDeIT\Repository\Obfuscate Email Tema\Obfuscate Email Tema\obj\Debug\net8.0\ref\Obfuscate Email Tema.dll
